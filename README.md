@@ -17,7 +17,13 @@
     flutter run
     ```
 
+## 📷 스크린샷
 
-![메인 화면](screenshots/main.png)  
-![검색 결과](screenshots/search.png)  
-![상세 페이지](screenshots/detail.png)
+**메인 화면**  
+<img src="screenshots/main.png" width="25%" height="25%" />
+
+**검색 결과**  
+<img src="screenshots/search.png" width="25%" height="25%" />
+
+**상세 페이지**  
+<img src="screenshots/detail.png" width="25%" height="25%" />

@@ -48,6 +48,6 @@ lib/
 
 ## 📷 스크린샷
 
-| 메인 화면 | 검색 결과 | 상세 페이지 |
-|-----------|------------|-------------|
-| ![main](screenshots/main.png) | ![search](screenshots/search.png) | ![detail](screenshots/detail.png) |
+![메인 화면](screenshots/main.png)  
+![검색 결과](screenshots/search.png)  
+![상세 페이지](screenshots/detail.png)
